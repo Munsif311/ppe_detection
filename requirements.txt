@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+opencv-python-headless
+ultralytics
+numpy
+pillow
+flask-socketio
+eventlet
